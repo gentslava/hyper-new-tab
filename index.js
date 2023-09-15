@@ -1,7 +1,4 @@
 exports.decorateConfig = (config) => {
-    const tabText = document.querySelector('.tab_active .tab_text');
-    const tabTextColor = tabText && window.getComputedStyle(tabText).color || '#fff';
-
     return Object.assign({}, config, {
         css: `
             ${config.css || ''}
@@ -23,7 +20,7 @@ exports.decorateConfig = (config) => {
               justify-content: center;
 
               font-size: large;
-              color: ${tabTextColor};
+              color: #fff;
             }
         `
     });
