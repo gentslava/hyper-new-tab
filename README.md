@@ -1,4 +1,9 @@
 # hyper-new-tab
-Add a button to easily open a new tab in your hyper terminal.
+Add a button `+` to easily open a new tab in your hyper terminal.
 
-Simple configuration in .hyper.js
+* Compatible with any theme
+* Simple installation
+
+### Install
+
+`hyper i hyper-new-tab`
