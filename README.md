@@ -6,7 +6,7 @@ Add a button `+` to easily open a new tab in your hyper terminal.
 
 <div align="center">
   <p>
-    <img alt="demo" src="demo/default.png" width="500px" />
+    <img alt="demo" src="demo/default.png" width="600px" />
   </p>
 </div>
 
@@ -20,6 +20,6 @@ Click `+` and a new tab will open.
 
 <div align="center">
   <p>
-    <img alt="demo" src="demo/new_tab.png" width="500px" />
+    <img alt="demo" src="demo/new_tab.png" width="600px" />
   </p>
 </div>
